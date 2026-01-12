@@ -1,6 +1,6 @@
 # JSON Sanitization Invocable Action
 
-[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/app/githubdeploy/WeSummitMountains/WSM-Tools-Sanatize-JSON
+[![Deploy to Salesforce](image_url)](https://githubsfdeploy.herokuapp.com/.../WSM-Tools-Sanatize-JSON)
 
 An Apex Invocable Action that sanitizes JSON strings by removing control characters (newlines, carriage returns, tabs) that can cause "Invalid JSON payload" errors when calling external APIs from Salesforce Flows.
 
